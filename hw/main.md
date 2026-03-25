@@ -55,3 +55,4 @@ Finally, we provide the same set of information of the owner name Mr. Mohamad Al
 ## Darjeeling top-level
 
 * [Datasheet](./top_darjeeling/doc/datasheet.md)
+* [Approved by Google LLC
